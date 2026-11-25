@@ -18,9 +18,7 @@ PARTS:
 
 -Female DB9 connector
 
--NA151 or similar load cell
-
--INA333 amplifier (w/ CNCDan mods)
+-Handbrake with analog output (load cell or fader-based are the usual designs)
 
 -SPST switch
 
