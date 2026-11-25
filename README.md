@@ -7,6 +7,7 @@ All of these functions existed as separate projects, I just combined them into o
 
 This project assumes you already have working Logitech peripherals, and a handbrake that produces an analog output signal.
 
+
 PARTS:
 
 -Arduino Pro Micro or Leonardo (or other ATMega 32U4 based processor) *DOESN'T WORK WITH ARDUINO UNO, NANO, OR OTHER ATMega 328P BOARDS*
@@ -23,10 +24,17 @@ PARTS:
 
 -some wires
 
+
 SOURCES:
+
 CNCDan's sim racing peripherals projects: 
+
   https://github.com/dmcke5/H-Shifter/tree/main
+  
   https://github.com/dmcke5/Load-Cell-Handbrake
+
 PartsNotIncluded projects:
+
   https://www.partsnotincluded.com/how-to-build-a-diy-logitech-shifter-usb-adapter/
+  
   https://www.partsnotincluded.com/how-to-build-a-diy-logitech-pedals-usb-adapter/
