@@ -44,25 +44,51 @@ PartsNotIncluded projects:
 WIRING:
 
 Connect parts per this diagram:
+
 DB-9 PINOUTS
+
+[X - DB9 PIN | ARDUINO PIN]
+
 SHIFTER
+
 1 - N/C
+
 2 - Reverse Pin | 2
+
 3 - connect to DB-9 pin 7
+
 4 - X axis      | A6 (pin 4)
+
 5 - N/C
+
 6 - GND
+
 7 - connect to DB-9 pin 3
+
 8 - Y axis      | A7 (pin 6)
+
 9 - +5V
 
 PEDALS
+
 1 - GND
+
 2 - Throttle    | A3
+
 3 - Brake       | A2
+
 4 - Clutch      | A0
+
 5 - N/C
+
 6 - N/C
+
 7 - N/C
+
 8 - N/C
+
 9 - +5V
+
+HANDBRAKE ANALOG PIN TO A1
+
+HANDBRAKE MODE SWITCH TO PIN 7
