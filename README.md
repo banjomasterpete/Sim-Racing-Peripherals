@@ -7,6 +7,8 @@ All of these functions existed as separate projects, I just combined them into o
 
 This project assumes you already have working Logitech peripherals, and a handbrake that produces an analog output signal.
 
+*I don't know if it works with other peripherals. I don't have any other hardware to test out. If you want to make mods to this project, you'll have to figure that out*
+
 
 PARTS:
 
